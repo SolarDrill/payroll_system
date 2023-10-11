@@ -45,14 +45,6 @@ This is an application built using Python/Django from scratch using the default 
    python manage.py test payroll_app.tests.test_endpoints
    ```
    
-### IMPORTANT
-   This is the .env, i'll leave it here as it's a private repo. The Sentry has my DSN, you can setup yours to see if it's working. The Database is hosted on Render, you can use that one, it's on.
-   ```sh
-   DEBUG=True
-   SECRET_KEY='0du0x1$tv@0))=83wg_6dlvb51@*&6)(&!tj^8)re1rf(p0rjq'
-   DATABASE_URL='postgres://payroll_5eec_user:eRo9kDVytmDa480l7w9tt8P3W9b9v3Xm@dpg-ckep0r6npffc73aopbfg-a.oregon-postgres.render.com/payroll_5eec'
-   SENTRY_DSN='https://9dd7629016e0c4de38c62878cd6b9283@o4505667386540032.ingest.sentry.io/4506001023172608'
-   ```
 ## ANY QUESTION FEEL FREE TO CONTACT ME
 
 
