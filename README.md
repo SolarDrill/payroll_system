@@ -34,7 +34,7 @@ This is an application built using Python/Django from scratch using the default 
    python manage.py runserver
    ```
 ### Description
-   I added a model aside from the requirements called "OpenPosition" where we can register available jobs, the institution that is in need of it and the department of the solicited job.
+   There's a model called "OpenPosition" where we can register available jobs, the institution that is in need of it and the department of the solicited job.
       *I allowed non-authenticated users to view open positions since it's information that should be public to get people to apply.   
 
    Url for the API documentation: http://127.0.0.1:8000/api/v1/docs/
