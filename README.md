@@ -7,7 +7,7 @@ This is an application built using Python/Django from scratch using the default 
 
 1. Clone the repo, get into the project folder and change to "ramon_gomez" branch
    ```sh
-   git clone https://github.com/anthomme06/backend-django-interview-test.git
+   git clone https://github.com/SolarDrill/payroll_system.git
    ```
 2. Install pipenv for the environment
    ```sh
